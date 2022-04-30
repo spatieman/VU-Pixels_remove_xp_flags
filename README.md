@@ -16,4 +16,5 @@ when the infinateVehicles mod from Powback is used.
 The Gunship and the dropship will crash the server if
 infinatevehicles mod is used
 
-On default the inifinatevehicles mod (ext/server) is disabled.
+On default the inifinatevehicles mod (ext/server) is enabled.
+Keep in mind, on other maps there is also a extra vehicles spawn.
