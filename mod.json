@@ -1,0 +1,10 @@
+{
+  "Name": "RemoveFlags",
+  "Authors": ["breaknix,iamadeadpixel"],
+  "Description": "removes the flags for the gunship",
+  "Version": "1.0.0",
+  "HasVeniceEXT": true,
+  "Dependencies": {
+    "veniceext": "^1.0.0"
+  }
+}

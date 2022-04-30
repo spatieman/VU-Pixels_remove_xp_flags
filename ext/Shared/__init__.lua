@@ -1,0 +1,8 @@
+require('__shared/remove-flags_kiasar_railroad')
+require('__shared/remove-flags_Nebandan_Flats')
+require('__shared/remove-flags_Sabalan_Pipeline')
+require('__shared/remove-flags_Operation_Riverside')
+require('__shared/remove-flags_Armored_Shield')
+require('__shared/remove-flags_Death_Valley')
+require('__shared/remove-flags_Bandar_Desert')
+require('__shared/remove-flags_Alborz_Mountains')
